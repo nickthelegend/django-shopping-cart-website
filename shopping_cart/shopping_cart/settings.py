@@ -68,6 +68,8 @@ TEMPLATES = [
     },
 ]
 
+
+MEDIA_URL = './'
 WSGI_APPLICATION = 'shopping_cart.wsgi.application'
 
 
